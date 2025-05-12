@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+/* Hilangkan jarak antar elemen */
+section#contact svg {
+  display: block;
+  margin-bottom: -1px; /* atau coba -2px jika perlu */
+}
+
+footer {
+  margin-top: 0;
+  padding-top: 0;
+}
